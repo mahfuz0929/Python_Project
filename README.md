@@ -33,7 +33,8 @@ The project is designed for researchers, engineers, and students in the field of
 ### 3. Visualization
 - **Temperature vs. Production Rate**: A line plot to explore how temperature impacts production rates. ![Python_Task_2_Task_2_Project_2 ipynb at main · mahfuz0929_Python_Task_2 and 6 more pages - Profile 1 - Microsoft​ Edge 1_27_2025 5_36_37 AM](https://github.com/user-attachments/assets/64987fb9-57ed-4550-9010-126e51f6a57b)
 
-- **Bar Chart for Catalyst Concentrations**: A bar chart comparing production rates across different levels of catalyst concentration.
+- **Bar Chart for Catalyst Concentrations**: A bar chart comparing production rates across different levels of catalyst concentration. ![Screenshot (22)](https://github.com/user-attachments/assets/63c0530f-c21b-4f64-8435-7d65fd66dab6)
+
 
 ---
 
