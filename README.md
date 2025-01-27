@@ -54,5 +54,5 @@ This chart compares the production rate across different catalyst concentrations
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/basic-polymer-rate-estimation.git
+   git clone https://github.com/mahfuz0929/Python_Project
    cd basic-polymer-rate-estimation
